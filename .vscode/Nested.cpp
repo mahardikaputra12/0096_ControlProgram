@@ -28,7 +28,7 @@ int main(){
 
    //rerata = (nilBI+nilMT)/2; commit 1
    //if (rerata >= 60)commit 2
-   //    status = "Lolos";
+   //    status = "Lolos";commit 3
    //else
      //  status = "Gagal";
     rerata = Rata_rata(nilBI,nilMT);

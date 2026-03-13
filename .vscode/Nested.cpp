@@ -35,5 +35,5 @@ int main(){
     //status = Status_lulus(rerata); commit 5
 
     cout << "Status kelulusan = "<<Status_lulus(rerata)<<" ,dengan nilai rerata = "<<rerata<<endl;
-//selesai
+//selesai commit 7
 }

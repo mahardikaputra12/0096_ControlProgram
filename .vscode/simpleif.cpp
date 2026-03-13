@@ -20,3 +20,4 @@ int main(){
     return 0;
 }
 //commit 1
+// bilangan yang diberikan 4

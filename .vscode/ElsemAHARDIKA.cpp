@@ -21,14 +21,11 @@ int main(){
     cout << "Masukkan nilai Matematika = ";
     cin >> nilMT;
 
-    //rerata = (nilBI+nilMT)/2;
-    //if (rerata >= 60)
-    //   status = "Lolos";
-    //else
-    // status = "Gagal";
+    //rerata = (nlBI+nilMT)/2;
+    
 
     rerata = Rata_rata(nilBI, nilMT);
-    // status = status_lulus(rerata);
+    
     
     cout << "Status kelulusan = " << Status_lulus(rerata) << " ,dengan nilai rerata = " << rerata << endl;
-}//selesai
+}

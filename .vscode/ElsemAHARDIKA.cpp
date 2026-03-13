@@ -25,6 +25,7 @@ int main(){
     //if (rerata >=60 )
     //    status = "Lolos";
     //else
+    //    status "Gagal";
     
 
     rerata = Rata_rata(nilBI, nilMT);

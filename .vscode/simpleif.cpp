@@ -24,3 +24,4 @@ int main(){
 //if
 //nilai x sudah di koreksi
 //return 0
+// x=5

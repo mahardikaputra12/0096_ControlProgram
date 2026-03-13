@@ -22,6 +22,7 @@ int main(){
     cin >> nilMT;
 
     //rerata = (nlBI+nilMT)/2;
+    //if (rerata >=60 )
     
 
     rerata = Rata_rata(nilBI, nilMT);

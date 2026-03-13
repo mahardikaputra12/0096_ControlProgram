@@ -30,7 +30,7 @@ int main(){
    //if (rerata >= 60)commit 2
    //    status = "Lolos";commit 3
    //else
-     //  status = "Gagal";
+     //  status = "Gagal";commit 4
     rerata = Rata_rata(nilBI,nilMT);
     //status = Status_lulus(rerata);
 

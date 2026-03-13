@@ -21,3 +21,4 @@ int main(){
 }
 //commit 1
 // bilangan yang diberikan 4
+//if

@@ -32,7 +32,7 @@ int main(){
    //else
      //  status = "Gagal";commit 4
     rerata = Rata_rata(nilBI,nilMT);
-    //status = Status_lulus(rerata);
+    //status = Status_lulus(rerata); commit 5
 
     cout << "Status kelulusan = "<<Status_lulus(rerata)<<" ,dengan nilai rerata = "<<rerata<<endl;
 //selesai

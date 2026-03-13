@@ -27,7 +27,7 @@ int main(){
     cin >> nilMT;
 
    //rerata = (nilBI+nilMT)/2; commit 1
-   //if (rerata >= 60)
+   //if (rerata >= 60)commit 2
    //    status = "Lolos";
    //else
      //  status = "Gagal";
